@@ -1,1 +1,3 @@
 ## Revolutionizing Edge Computing With Superconducting Deep Neural Networks
+
+Download [results](https://northeastern-my.sharepoint.com/:f:/g/personal/abdi_mo_northeastern_edu/Eiu2LsVCyvxClmLRqXge5eMBczJewOGuvKVcvHHMGLlgvg?e=NvA9gR) and [nature_paper_materials](https://northeastern-my.sharepoint.com/:f:/g/personal/abdi_mo_northeastern_edu/Esi2wYcJVNZPiTGyqNHF--wB8T6-1bNfT8DhhLqQOUQR6Q?e=C2nj3Z) and place it in the same folder to run the scripts.
